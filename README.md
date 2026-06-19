@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <h1 align="center">Hi 👋, I'm SATISH KUMAR NEELI</h1>
 <h3 align="center">Cloud & DevOps Engineer</h3>
 
