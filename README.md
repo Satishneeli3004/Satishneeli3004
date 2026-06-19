@@ -37,6 +37,8 @@
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Disaster Recovery](https://img.shields.io/badge/Disaster%20Recovery-%23FF4500.svg?style=for-the-badge&logo=datadog&logoColor=white) 
+![Cloud Migration](https://img.shields.io/badge/Cloud%20Migration-%236C5CE7.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Satishneeli3004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
