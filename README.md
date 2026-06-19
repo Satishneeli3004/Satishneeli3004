@@ -1,6 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working as **Cloud & DevOps Engineer** at Arka & Jio Payments Banking (via Epik Indifi)<br>👯 I’m looking to collaborate on **Cloud Infrastructure Automation, Kubernetes, and CI/CD Pipelines**<br>🤝 I’m looking for help with **Multi-Cloud Networking & Disaster Recovery Strategies**<br>🌱 I’m currently learning **Advanced Kubernetes Operators & Service Mesh (Istio)**<br>💬 Ask me about **AWS, Azure, Kubernetes, Terraform, Jenkins, and DevOps Best Practices**<br>⚡ Fun fact: **I once reduced deployment failures by 15% just by implementing YAML lint test cases!**
+<p align="center">
+  <img src="https://www.linkedin.com/in/satish-kumar-170b80213/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BydRUQptQRYqxBQj1CNnFew%3D%3D" width="150px" alt="Profile Photo">
+</p>
 
+<h1 align="center">Hi 👋, I'm SATISH KUMAR NEELI</h1>
+<h3 align="center">Cloud & DevOps Engineer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified- Solutions%20Architect-FF9900?style=flat&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Google%20Certified- Cloud%20Engineer-4285F4?style=flat&logo=google-cloud" />
+</p>
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-kumar-170b80213) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satishkumar.vr95@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://your-portfolio-url.com)
@@ -13,11 +24,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Satishneeli3004&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satishneeli3004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Satishneeli3004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Satishneeli3004&limit=5&theme=dark&combine_all_yearly_contributions=true)
