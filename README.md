@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align="center">
-  <img src="https://www.linkedin.com/in/satish-kumar-170b80213/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BydRUQptQRYqxBQj1CNnFew%3D%3D" width="150px" alt="Profile Photo">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQF2UDr-nbPfJg/profile-displayphoto-crop_800_800/B56Z6m6E9pHEAI-/0/1780916706172?e=1783555200&v=beta&t=J4wa1n3InZAfaMWr2CakS2ybGgpOYiZXC7pSJovPAG8" alt="Profile Photo">
 </p>
 
 <h1 align="center">Hi 👋, I'm SATISH KUMAR NEELI</h1>
