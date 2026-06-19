@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me:<br>🔭 I’m currently working as **Cloud & DevOps Engineer** at Arka & Jio Payments Banking (via Epik Indifi)<br>👯 I’m looking to collaborate on **Cloud Infrastructure Automation, Kubernetes, and CI/CD Pipelines**<br>🤝 I’m looking for help with **Multi-Cloud Networking & Disaster Recovery Strategies**<br>🌱 I’m currently learning **Advanced Kubernetes Operators & Service Mesh (Istio)**<br>💬 Ask me about **AWS, Azure, Kubernetes, Terraform, Jenkins, and DevOps Best Practices**<br>⚡ Fun fact: **I once reduced deployment failures by 15% just by implementing YAML lint test cases!**
 
 
