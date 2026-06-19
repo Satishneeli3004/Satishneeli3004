@@ -1,12 +1,11 @@
 # 💫 About Me:
-<h1 align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQF2UDr-nbPfJg/profile-displayphoto-crop_800_800/B56Z6m6E9pHEAI-/0/1780916706172?e=1783555200&v=beta&t=J4wa1n3InZAfaMWr2CakS2ybGgpOYiZXC7pSJovPAG8" width="90" height="90" style="border-radius: 50%; vertical-align: middle; margin-right: 20px; border: 3px solid #FF9900;"> 
-  SATISH KUMAR NEELI
-</h1>
-<h3 align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified- Solutions%20Architect-FF9900?style=flat-square&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/Google%20Certified- Cloud%20Engineer-4285F4?style=flat-square&logo=google-cloud" />
-</h3>
+<h1 align="center">Hi 👋, I'm SATISH KUMAR NEELI</h1>
+<h3 align="center">Cloud & DevOps Engineer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified- Solutions%20Architect-FF9900?style=flat&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Google%20Certified- Cloud%20Engineer-4285F4?style=flat&logo=google-cloud" />
+</p>
 
 ---
 
