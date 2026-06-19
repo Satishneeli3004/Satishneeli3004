@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQF2UDr-nbPfJg/profile-displayphoto-crop_800_800/B56Z6m6E9pHEAI-/0/1780916706172?e=1783555200&v=beta&t=J4wa1n3InZAfaMWr2CakS2ybGgpOYiZXC7pSJovPAG8" alt="Profile Photo">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQF2UDr-nbPfJg/profile-displayphoto-crop_800_800/B56Z6m6E9pHEAI-/0/1780916706172?e=1783555200&v=beta&t=J4wa1n3InZAfaMWr2CakS2ybGgpOYiZXC7pSJovPAG8" width="150" style="border-radius: 50%;" alt="Profile Photo">
 </p>
 
 <h1 align="center">Hi 👋, I'm SATISH KUMAR NEELI</h1>
